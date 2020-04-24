@@ -45,7 +45,7 @@ import java.util.Map;
  * Demonstrates simple non-live migration and energy reading facilities in
  * DISSECT-CF
  * 
- * Starts up two PMs, instantiates a VM on one of them. Runs a task on the VM.
+ * Starts up two PMs, insstantiates a VM on one of them. Runs a task on the VM.
  * Then during the task execution issues a migration request. Writes out the
  * simulated energy behavior during the migration process.
  * 
